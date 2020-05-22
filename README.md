@@ -4,7 +4,7 @@
 
 ## About
 
-Determine columns needed for a fixed-size wide-character string. Refer to [the original](https://github.com/timoxley/wcwidth) for more info. This was more to try out Deno than anything else  ¯\_(ツ)_/¯.
+Determine columns needed for a fixed-size wide-character string. Refer to [the original](https://github.com/timoxley/wcwidth) for more info. This was more to try out Deno than anything else  ¯\\_(ツ)_/¯.
 
 ## Usage
 
